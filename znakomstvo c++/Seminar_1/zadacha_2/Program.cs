@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
 Console.WriteLine("Введите 1-ое число");
 int a = Convert.ToInt32(Console.ReadLine());
 
