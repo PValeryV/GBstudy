@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\Seminar_1.csproj": {}
+    "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\zadacha_2\\zadacha_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\Seminar_1.csproj": {
+    "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\zadacha_2\\zadacha_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\Seminar_1.csproj",
-        "projectName": "Seminar_1",
-        "projectPath": "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\Seminar_1.csproj",
+        "projectUniqueName": "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\zadacha_2\\zadacha_2.csproj",
+        "projectName": "zadacha_2",
+        "projectPath": "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\zadacha_2\\zadacha_2.csproj",
         "packagesPath": "C:\\Users\\prelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\obj\\",
+        "outputPath": "C:\\Users\\prelo\\GBstudy\\znakomstvo c++\\Seminar_1\\zadacha_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
