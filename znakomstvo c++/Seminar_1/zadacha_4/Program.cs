@@ -14,4 +14,3 @@ if (max<arr[1]) max = arr[1];
 if (max<arr[2]) max = arr[2];
 
 Console.WriteLine($"max = {max}");
-
