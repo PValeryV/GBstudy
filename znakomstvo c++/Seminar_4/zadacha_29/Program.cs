@@ -15,7 +15,7 @@ void randValue(ref int[]arr, int element)//заполняю массив ран�
 {
     Random rnd = new Random();
     for (int i=0;i<element;i++){
-        arr[i]= rnd.Next(1,100);
+        arr[i]= rnd.Next(1,101);
     }
 }
 
