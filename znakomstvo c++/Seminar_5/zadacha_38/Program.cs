@@ -2,16 +2,26 @@
 int n = 5;//число элеметнов в массиве
 int []  arr = new int[n];
 int DifLastFirst=0;
+
 Random rand = new Random();
 for (int i =0; i<n;i++){
     
    arr[i] = rand.Next(200);
 }
-
+int max=arr[0];
+int min=arr[0];
 Console.Write("элементы массива [");
 for (int i = 0;i<n;i++){
     Console.Write($"{arr[i]} ");
+    if (arr[i]>max) 
+    {
+        max= arr[i];
+    }
+        if (arr[i]<min) 
+    {
+        min= arr[i];
+    }
 }
-DifLastFirst=Math.Abs(arr[0]-arr[(arr.Length-1)]);
+DifLastFirst=max-min;
 Console.WriteLine("]");
-Console.WriteLine($"Разница между первым и последним элементом массива = {DifLastFirst}");
+Console.WriteLine($"Разница между максимальным и минимальным значениями массива = {DifLastFirst}");
